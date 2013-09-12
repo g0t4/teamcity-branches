@@ -1,0 +1,3 @@
+<component name="DependencyValidationManager">
+  <scope name="TeamCityInspectionScope" pattern="file:test.js" />
+</component>
