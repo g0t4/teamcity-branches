@@ -1,2 +1,1 @@
-var a = 1
-a = a;
+var a = 1;
