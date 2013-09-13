@@ -1,5 +1,2 @@
-var a = 1
+var a = 1;
 a = a;
-var b = 1;
-var c = 2;
-var d = 3;
